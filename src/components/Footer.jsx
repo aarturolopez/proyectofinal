@@ -91,7 +91,7 @@ export default function Footer() {
           letterSpacing: '1px',
           marginTop: '0.5rem'
         }}>
-          Done by Nihar
+          Done by Arturo
         </div>
 
       </div>
