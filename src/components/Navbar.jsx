@@ -19,7 +19,7 @@ export default function Navbar() {
       
       {/* 1. THE LOGO */}
       <Link to="/" className="logo-text">
-        CINEGRAPHIXX
+        PROYECTOFINAL
       </Link>
 
       {/* 2. THE LINKS (Works & About) */}
