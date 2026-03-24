@@ -20,8 +20,8 @@ export default function Footer() {
         {/* Mail ID */}
         <div>
           <span style={{ color: '#666' }}>Mail ID: </span>
-          <a href="mailto:cinegraphixxx@gmail.com" style={{ color: 'white', textDecoration: 'none', marginLeft: '8px' }}>
-            cinegraphixxx@gmail.com
+          <a href="mailto:proyectofinal@gmail.com" style={{ color: 'white', textDecoration: 'none', marginLeft: '8px' }}>
+            proyectofinalx@gmail.com
           </a>
         </div>
 
@@ -40,7 +40,7 @@ export default function Footer() {
         
         {/* YouTube Link */}
         <a 
-          href="https://youtube.com/@cinegraphixx" 
+          href="https://youtube.com/@proyectofinal" 
           target="_blank" 
           rel="noopener noreferrer"
           style={{ 
@@ -57,7 +57,7 @@ export default function Footer() {
 
         {/* Instagram Link */}
         <a 
-          href="https://www.instagram.com/cinegraphixx" 
+          href="https://www.instagram.com/proyectofinal" 
           target="_blank" 
           rel="noopener noreferrer"
           style={{ 
